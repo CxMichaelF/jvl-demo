@@ -21,7 +21,7 @@ jobs:
           cx_client_id: ${{ secrets.CLIENT_ID }}
           cx_client_secret: ${{ secrets.SECRET }}
           # DEFINE SCANNER:
-          scan_types: sast,sca,kics
+          # scan_types: sast,sca,kics
           # DEFINE BRANCH:
           branch: main
           # DEFINE THRESHOLDS:
