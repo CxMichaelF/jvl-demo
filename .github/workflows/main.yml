@@ -20,4 +20,9 @@ jobs:
           base_uri: https://ast.checkmarx.net/
           cx_client_id: ${{ secrets.CLIENT_ID }}
           cx_client_secret: ${{ secrets.SECRET }}
+          # DEFINE SCANNER:
+          scan_types: sast,sca,kics
+          # DEFINE BRANCH:
           branch: main
+          # DEFINE THRESHOLDS:
+          # additional_params: --thresholdd "sast-high=3; sca-high=1;kics-high=1" 
