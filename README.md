@@ -1,6 +1,6 @@
 ![](https://github.com/CheckmarxDev/NodeGoat-test/workflows/cx/badge.svg)
 
-04/27 - UPDATE+1
+04/27 - UPDATE+2
 
 This is a "Vulnerable" Web Application developed by Cyber Security and Privacy Foundation(www.cysecurity.org). This app is intended for the Java Programmers and other people who wish to learn about Web application vulnerabilities and write secure code.123
 
